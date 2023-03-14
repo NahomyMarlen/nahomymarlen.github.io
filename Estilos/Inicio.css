@@ -1,0 +1,16 @@
+#ae{
+    position: relative;
+    float: left;
+    padding: 2px;
+    margin: 5px;
+    border: double;
+}
+#AE{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    color: cadetblue;
+}
+p{
+    font-size: 150%;
+}

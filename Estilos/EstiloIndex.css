@@ -1,0 +1,43 @@
+#Logo1{
+    display: inline-block;
+    width: 12%;
+    float: left;
+}
+#Titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+    color: cadetblue;
+}
+#Logo2{
+    display: inline-block;
+    width: 12%;
+    text-align: right;
+}
+#Barra{
+    clear: both;
+}
+.Menu{
+    display: inline-block;
+    width: 15%;
+    background-color: lightblue;
+    color: lightseagreen;
+    font-size: 20px;
+    text-align: center;
+    border: solid;
+}
+#Marco{
+    width: 98.5%;
+    padding: 8px;
+    height: 600px;
+}
+#Pie{
+    text-align: center;
+    font-size: 20px;
+    border: solid;
+    font-family:inherit;
+    color: lightseagreen;
+}
+Body{
+    background-color: azure
+}

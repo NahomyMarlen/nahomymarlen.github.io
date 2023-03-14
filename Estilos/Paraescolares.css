@@ -1,0 +1,76 @@
+#PAR{
+    color: darkcyan;
+    text-align:center;
+    font-family: Times New Roman;
+    font-size: 5em;
+    font-style: italic;
+    text-decoration: underline;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#par{
+    color:#09b0a2;
+    margin:20px;
+    text-align: center;
+    font-style:oblique;
+}
+.concep{
+    color:cadetblue;
+    margin:20px;
+    text-align: left;
+    font-style:oblique;
+}
+#FM{
+    position: relative;
+    float: right;
+    padding: 1px;
+    margin: 5px;
+    border: double;
+}
+#PARA{
+    display: inline-block;
+    width: 10px;
+    text-align: center;
+    color: #056d7a;
+}
+#PARAESCOLARES{
+    float: center;
+    padding: 10px;
+    margin: 10px;
+    border: dashed;
+    font-size: 5em;
+}
+.lista{
+    color:#005e56;
+    margin:20px;
+    text-align: left;
+    font-style:oblique;
+}
+.liste{
+    color:#005e56;
+    margin:20px;
+    text-align: right;
+    font-style:oblique;
+}
+p{
+    color:#09b0a2;
+    margin:20px;
+    text-align: left;
+    font-style:oblique;
+}
+#img{
+    position: relative;
+    float:left;
+    padding: 10px;
+    margin: 8px;
+    border: double;
+}
+#imag{
+    position: relative;
+    float:right;
+    padding: 10px;
+    margin: 8px;
+    border: double;
+}

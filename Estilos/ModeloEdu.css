@@ -1,0 +1,30 @@
+#ME{
+    color: darkcyan;
+    text-align:center;
+    font-family: Times New Roman;
+    font-size: 5em;
+    font-style: italic;
+    text-decoration: underline;
+    position: absolute;
+    top: 36%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+}
+.owo{
+   color:#054a32;
+    margin:20px;
+    text-align: left;
+}
+p{
+    color:#09b0a2;
+    margin:20px;
+    text-align: left;
+    font-style:oblique;
+}
+#imagen{
+    position: relative;
+    float:right;
+    padding: 10px;
+    margin: 8px;
+    border: double;
+}

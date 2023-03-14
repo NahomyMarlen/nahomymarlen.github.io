@@ -1,0 +1,54 @@
+#CAP{
+    color: darkcyan;
+    text-align:center;
+    font-family: Times New Roman;
+    font-size: 5em;
+    font-style: italic;
+    text-decoration: underline;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#cap{
+    color:#09b0a2;
+    text-align: center;
+    font-size: 12px;
+}
+#capa{
+    color:#1d6e54;
+    text-align: center;
+    font-size: 21px;
+}
+#CAPACITACIONES{
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    border: dashed;
+}
+.list{
+    color:#005e56;
+    margin:20px;
+    text-align: left;
+    font-style:oblique;
+}
+p{
+    color:#09b0a2;
+    margin:20px;
+    text-align: left;
+    font-style:oblique;
+}
+#im{
+    position: relative;
+    float:left;
+    padding: 10px;
+    margin: 8px;
+    border: double;
+}
+#img{
+    position: relative;
+    float:right;
+    padding: 10px;
+    margin: 8px;
+    border: double;
+}

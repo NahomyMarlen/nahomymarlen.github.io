@@ -1,0 +1,49 @@
+#UC{
+    color: darkcyan;
+    text-align:center;
+    font-family: Times New Roman;
+    font-size: 3em;
+    font-style: italic;
+    text-decoration: underline;
+    position: absolute;
+    top: 39%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+}
+.owo{
+   color:#054a32;
+    margin:20px;
+    text-align: left;
+}
+#imagen{
+    position: relative;
+    float:right;
+    padding: 10px;
+    margin: 8px;
+    border: double;
+}
+.a{
+   color:#054a32;
+    margin:20px;
+    text-align: left;
+    font-style:oblique;
+}
+.e{
+   color:#13a179;
+    margin:20px;
+    text-align: left;
+    font-style:oblique; 
+}
+.i{
+    color:#36d9ab;
+    margin:8px;
+    text-align: left;
+    font-style:oblique;
+}
+#qroo{
+    position: relative;
+    float: right;
+    padding: 1px;
+    margin: 5px;
+    border: double;
+}
